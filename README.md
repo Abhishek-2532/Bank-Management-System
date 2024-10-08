@@ -1,8 +1,8 @@
 # Bank-Management-System
 This project is a Bank Management System designed for the State Bank of India using C++. The system allows users to perform essential banking functions such as creating accounts, depositing money, withdrawing money, managing fixed deposits, and handling loans.
 
-Features
-Account Management
+#Features
+.Account Management
 
 Create a new account.
 View account holder's profile.
